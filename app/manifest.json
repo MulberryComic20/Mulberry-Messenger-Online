@@ -2,7 +2,7 @@
   "name": "Mulberry Messenger Online",
   "description": "Telegram Web App.\nMore info & source code here: https://github.com/zhukov/webogram",
   "version": "0.5.2",
-  "short_name": "Telegram",
+  "short_name": "MulberryM",
   "manifest_version": 2,
   "app": {
     "background": {
